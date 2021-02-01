@@ -1,3 +1,4 @@
+# 쿠팡에서 페이지 바꿔가면서 노트북 검색하기
 import requests
 import re
 from bs4 import BeautifulSoup
